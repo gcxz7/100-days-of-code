@@ -1,30 +1,28 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: June 10, Monday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I've started the CS50SQL final project, designed the UML, and outlined the client requirements.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: It's stressful to create an entire database without making it too simple.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. TODO
+
+### Day 2: June 11, Tuesday
+
+**Today's Progress**: I've started doing JavaScript koans.
+
+**Thoughts**: It's difficult.
+
+**Link(s) to work**
+1. [JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans/tree/master)
+
+### Day 3: June 12, Wednesday
+
+**Today's Progress**: I've started doing JavaScript exercises on FreeCodeCamp.
+
+**Thoughts**: I've recently started coding, and it's a different experience than watching tutorials.
+
+**Link(s) to work**
+1. [learn javascript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
