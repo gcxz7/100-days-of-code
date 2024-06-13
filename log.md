@@ -4,7 +4,7 @@
 
 **Today's Progress**: I've started the CS50SQL final project, designed the UML, and outlined the client requirements.
 
-**Thoughts**: It's stressful to create an entire database without making it too simple.
+**Thoughts**: It's stressful to create an entire database.
 
 **Link(s) to work**
 1. TODO
