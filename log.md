@@ -22,7 +22,7 @@
 
 **Today's Progress**: I've started doing JavaScript exercises on FreeCodeCamp.
 
-**Thoughts**: I've recently started coding, and it's a different experience than watching tutorials.
+**Thoughts**: It's a different experience than watching tutorials.
 
 **Link(s) to work**
 1. [learn javascript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
