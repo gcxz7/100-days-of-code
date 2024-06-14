@@ -26,3 +26,13 @@
 
 **Link(s) to work**
 1. [learn javascript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
+
+### Day 4: June 13, Thursday
+
+**Today's Progress**: I've started learning Java Spring Boot.
+
+**Thoughts**: Confusing and verbose.
+
+**Link(s) to work**
+1. [Learn Spring Boot](https://dio.me/)
+
