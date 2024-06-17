@@ -38,12 +38,13 @@
 
 ### Day 5: June 14, Friday
 
-**Today's Progress**: I've started The Odin Project.
+**Today's Progress**: I've started The Odin Project and completed the first section of freecodecamp.
 
 **Thoughts**: Really interesting.
 
 **Link(s) to work**
 1. [The Odin Project](https://www.theodinproject.com/)
+2. [learn javascript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
 
 ### Day 6: June 15, Saturday 
 
