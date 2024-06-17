@@ -36,3 +36,26 @@
 **Link(s) to work**
 1. [Learn Spring Boot](https://dio.me/)
 
+### Day 5: June 14, Friday
+
+**Today's Progress**: I've started The Odin Project.
+
+**Thoughts**: Really interesting.
+
+**Link(s) to work**
+1. [The Odin Project](https://www.theodinproject.com/)
+
+### Day 6: June 15, Saturday 
+
+**Today's Progress**: I've started configuring alacritty and zsh.
+
+**Thoughts**: It's stressful.
+
+**Link(s) to work**
+1. [alacritty](https://alacritty.org)
+
+
+
+
+
+
