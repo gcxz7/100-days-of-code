@@ -55,6 +55,15 @@
 **Link(s) to work**
 1. [alacritty](https://alacritty.org)
 
+### Day 7: June 20, Thursday 
+
+Today's Progress: Practised Java Spring Boot.
+
+Thoughts: Started to understand it.
+
+Links(s) to work
+1. [Lear Spring Boot](https://dio.me/)
+
 
 
 
