@@ -64,6 +64,14 @@ Thoughts: Started to understand it.
 Links(s) to work
 1. [Lear Spring Boot](https://dio.me/)
 
+### Day 8: June 21, Friday
+
+Today's Progress: Finished the html odin project and started the second part of freecodecamp.
+
+Thoughts: Confused about what i the odin project or freecodecamp.
+
+Links(s) to work
+1. [odin recipe](https://github.com/gcxz7/odin-recipes) 
 
 
 
