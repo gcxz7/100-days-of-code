@@ -73,7 +73,12 @@ Thoughts: Confused about what i the odin project or freecodecamp.
 Links(s) to work
 1. [odin recipe](https://github.com/gcxz7/odin-recipes) 
 
+### Day 9: June 22, Saturday
 
+Today's Progress: Participated in a program marathone.
 
+Thoughts: It was cool.
+
+Links(s) to work:
 
 
