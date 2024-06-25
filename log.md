@@ -61,7 +61,7 @@ Today's Progress: Practised Java Spring Boot.
 
 Thoughts: Started to understand it.
 
-Links(s) to work
+Link(s) to work
 1. [Lear Spring Boot](https://dio.me/)
 
 ### Day 8: June 21, Friday
@@ -70,7 +70,7 @@ Today's Progress: Finished the html odin project and started the second part of 
 
 Thoughts: Confused about what i the odin project or freecodecamp.
 
-Links(s) to work
+Link(s) to work
 1. [odin recipe](https://github.com/gcxz7/odin-recipes) 
 
 ### Day 9: June 22, Saturday
@@ -79,6 +79,13 @@ Today's Progress: Participated in a program marathone.
 
 Thoughts: It was cool.
 
-Links(s) to work:
+Link(s) to work
 
+### Day 10: June 24, Monday
+
+Today's Progress: Finished designing the database of CS50SQL final project and started EDA project.
+
+Thoughts: C is the best.
+
+Link(s) to work
 
