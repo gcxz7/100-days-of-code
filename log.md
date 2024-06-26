@@ -89,3 +89,12 @@ Thoughts: C is the best.
 
 Link(s) to work
 
+### Day 11: June 25, Tuesday
+
+Today's Progress: Started to watch javaScript tutorial and did first exercise of css-odin-project.
+
+Thoughts: Unproductive day.
+
+Link(s) to work 
+
+1. (css-exercises)[https://github.com/gcxz7/css-exercises]
