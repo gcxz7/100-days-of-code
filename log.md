@@ -98,3 +98,11 @@ Thoughts: Unproductive day.
 Link(s) to work 
 
 1. (css-exercises)[https://github.com/gcxz7/css-exercises]
+
+### Day 12: June 26, Wednesday 
+
+Today's Progress: almost finished the eda-project.
+
+Thoughts: C is the best.
+
+Link(s) to work
