@@ -107,7 +107,7 @@ Thoughts: C is the best.
 
 Link(s) to work
 
-### Day 13: June 27, thurday 
+### Day 13: June 27, Thurday 
 
 Today's Progress: Finished some small projects about javascript, practised some html and css, decided to start vim.
 
@@ -115,4 +115,17 @@ Thoughts: Vim is not that hard.
 
 Link(s) to work 
 
+Day 14: June 28, Friday
 
+Today's Progress: Watched a JavaScript tutorial and read some articles about how to design an application.
+
+Thoughts: Interesting.
+
+Link(s) to work
+Day 15: June 29, Saturday
+
+Today's Progress: Watched a tutorial about graphs and DFS, tried to set up i3.
+
+Thoughts: i3 is confusing.
+
+Link(s) to work
