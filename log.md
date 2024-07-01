@@ -122,10 +122,19 @@ Today's Progress: Watched a JavaScript tutorial and read some articles about how
 Thoughts: Interesting.
 
 Link(s) to work
-Day 15: June 29, Saturday
+### Day 15: June 29, Saturday
 
 Today's Progress: Watched a tutorial about graphs and DFS, tried to set up i3.
 
 Thoughts: i3 is confusing.
 
 Link(s) to work
+
+### Day 16: June 30, Sunday
+
+Today's Progress: Tried to debug i3.
+
+Thoughts: i3 is not that hard.
+
+Link(s) to work
+
