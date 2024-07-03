@@ -138,3 +138,12 @@ Thoughts: i3 is not that hard.
 
 Link(s) to work
 
+### Day 17: July 02, Tuesday
+
+Today's Progress: Watched a JavaScript tutorial, did some css exercises and learned about devTools.
+
+Thoughts: boring.
+
+Links(s) to work
+[css-exercises](https://github.com/gcxz7/css-exercises)
+
