@@ -107,7 +107,7 @@ Thoughts: C is the best.
 
 Link(s) to work
 
-### Day 13: June 27, Thurday 
+### Day 13: June 27, Thursday 
 
 Today's Progress: Finished some small projects about javascript, practised some html and css, decided to start vim.
 
@@ -155,3 +155,12 @@ Thoughts: simple.
 
 Links(s) to work 
 [to-do-list-application](github.com/gcxz7/to-do-list-application)
+
+### Day 19: July 04, Thursday
+
+Today's Progress: continue on my data base project.
+
+Thoughts: simple.
+
+Links(s) to work  
+
