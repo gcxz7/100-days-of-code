@@ -147,3 +147,11 @@ Thoughts: boring.
 Links(s) to work
 [css-exercises](https://github.com/gcxz7/css-exercises)
 
+### Day 18: July 03, Wednesday
+
+Today's Progress: modeled the database of my to-do list.
+
+Thoughts: simple.
+
+Links(s) to work 
+[to-do-list-application](github.com/gcxz7/to-do-list-application)
