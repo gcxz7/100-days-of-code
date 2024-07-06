@@ -164,3 +164,11 @@ Thoughts: simple.
 
 Links(s) to work  
 
+### Day 20: July 05, Friday
+
+Today's Progress: learn about object oriented program in javaScript.
+
+Thoughts: easy.
+
+Links(s) to work
+
